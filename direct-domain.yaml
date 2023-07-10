@@ -1,0 +1,8 @@
+payload:
+  - 'www.msftncsi.com'
+  - 'www.msftconnecttest.com'
+  - 'captive.apple.com'
+  - 'connectivitycheck.gstatic.com'
+  - 'time.windows.com'
+  - '+.ikandy.fun'
+#  - '+.'
