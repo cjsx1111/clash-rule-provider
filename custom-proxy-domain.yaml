@@ -3,6 +3,9 @@ payload:
   - '+.gravatar.com'
   - '+.curseforge.com'
   - '+.unsplash.com'
+  # caddy
+  - '+.caddyserver.com'
+  - '+.caddy.community'
   # mozilla
   - '+.mozilla.org'
   # stackoverflow
