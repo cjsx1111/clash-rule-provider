@@ -1,28 +1,56 @@
 payload:
   - '+.imgur.com'
   - '+.gravatar.com'
+  - '+.curseforge.com'
+  - '+.unsplash.com'
+  # mozilla
   - '+.mozilla.org'
+  # stackoverflow
   - '+.stackoverflow.com'
+  # github
   - '+.github.com'
   - '+.githubusercontent.com'
   - '+.githubassets.com'
-  - '+.docker.com'
-  - '+.curseforge.com'
-  - '+.unsplash.com'
+  # aws
+  - '+.amazonaws.com'
+  # os
   - '+.alpinelinux.org'
   - '+.ubuntu.com'
+  - '+.debian.org'
   - '+.openwrt.org'
   - '+.archlinux.org'
-  - '+.debian.org'
+  # gitlab
   - '+.gitlab.com'
+  # bbs
   - '+.v2ex.com'
   - '+.hostloc.com'
+  # wikipedia
   - '+.wikipedia.org'
+  - '+.wikimedia.org'
+  # normal
   - '+.google.com'
   - '+.twitter.com'
   - '+.youtube.com'
+  - '+.lbyczf.com'
+  # docker
+  - '+.docker.io'
+  - '+.docker.com'
+  # kubernetes
+  - '+.kubernetes.io'
+  # python
   - '+.python.org'
   - '+.pypi.org'
+  # fastify
+  - '+.fastify.dev'
+  - '+.fastify.io'
+  # nodejs
+  - '+.npmjs.org'
+  # telegram
+  - '+.telegra.ph'
+  # gnome
+  - '+.gnome.org'
+  # olevod
+  - '+.olevod.com'
 #  - '+.'
 #  - '+.'
 #  - '+.'
