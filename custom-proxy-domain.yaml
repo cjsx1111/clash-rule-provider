@@ -7,12 +7,15 @@ payload:
   - '+.mozilla.org'
   # stackoverflow
   - '+.stackoverflow.com'
+  - '+.sstatic.net'
   # github
   - '+.github.com'
+  - '+.github.io'
   - '+.githubusercontent.com'
   - '+.githubassets.com'
   # aws
   - '+.amazonaws.com'
+  - '+.cloudfront.net'
   # os
   - '+.alpinelinux.org'
   - '+.ubuntu.com'
