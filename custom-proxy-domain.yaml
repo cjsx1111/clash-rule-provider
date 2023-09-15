@@ -57,6 +57,8 @@ payload:
   - '+.gnome.org'
   # olevod
   - '+.olevod.com'
+  # akamai
+  - '+.akamai-video-content.com'
 #  - '+.'
 #  - '+.'
 #  - '+.'
