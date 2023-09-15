@@ -59,6 +59,8 @@ payload:
   - '+.olevod.com'
   # akamai
   - '+.akamai-video-content.com'
+  # openai
+  - '+.openai.com'
 #  - '+.'
 #  - '+.'
 #  - '+.'
