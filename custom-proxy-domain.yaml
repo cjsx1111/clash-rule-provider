@@ -63,6 +63,7 @@ payload:
   - '+.openai.com'
   # tumblr
   - '+.tumblr-live.com'
+  - '+.meetmecdna.com'
 #  - '+.'
 #  - '+.'
 #  - '+.'
