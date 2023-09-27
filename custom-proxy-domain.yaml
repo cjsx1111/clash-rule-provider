@@ -61,6 +61,8 @@ payload:
   - '+.akamai-video-content.com'
   # openai
   - '+.openai.com'
+  # tumblr
+  - '+.tumblr-live.com'
 #  - '+.'
 #  - '+.'
 #  - '+.'
