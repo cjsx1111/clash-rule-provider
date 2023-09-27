@@ -3,6 +3,7 @@ payload:
   - '+.gravatar.com'
   - '+.curseforge.com'
   - '+.unsplash.com'
+  - '+.wp.com'
   # caddy
   - '+.caddyserver.com'
   - '+.caddy.community'
