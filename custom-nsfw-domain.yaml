@@ -5,3 +5,5 @@ payload:
   # tokyomotion
   - '+.tokyomotion.net'
   - '+.tokyo-motion.net'
+  # sifangktv
+  - '+.sifangktv.net'
