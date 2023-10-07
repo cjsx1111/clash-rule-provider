@@ -10,4 +10,5 @@ payload:
   - '+.aliyun.com'
   - '+.alibabacloud.com'
   - '+.mmstat.com'
+  - '+.ip.sb'
 #  - '+.'
