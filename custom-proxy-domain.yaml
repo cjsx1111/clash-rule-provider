@@ -68,6 +68,8 @@ payload:
   - '+.sd-rtn.com'
   # ikandy
 #  - '+.lz-cdn1.com'
+  # Lens
+  - '+.k8slens.dev'
 #  - '+.'
 #  - '+.'
 #  - '+.'
