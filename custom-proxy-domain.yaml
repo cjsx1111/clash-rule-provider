@@ -70,6 +70,8 @@ payload:
 #  - '+.lz-cdn1.com'
   # Lens
   - '+.k8slens.dev'
+  # qbittorrent
+  - '+.qbittorrent.org'
 #  - '+.'
 #  - '+.'
 #  - '+.'
