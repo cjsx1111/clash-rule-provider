@@ -72,6 +72,8 @@ payload:
   - '+.k8slens.dev'
   # qbittorrent
   - '+.qbittorrent.org'
+  # fosshub.com
+  - '+.fosshub.com'
 #  - '+.'
 #  - '+.'
 #  - '+.'
