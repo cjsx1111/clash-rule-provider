@@ -74,6 +74,8 @@ payload:
   - '+.qbittorrent.org'
   # fosshub.com
   - '+.fosshub.com'
+  # woa.com
+  - '+.woa.com'
 #  - '+.'
 #  - '+.'
 #  - '+.'
