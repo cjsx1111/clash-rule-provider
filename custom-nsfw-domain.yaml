@@ -10,3 +10,5 @@ payload:
   - '+.tokyo-motion.net'
   # sifangktv
   - '+.sifangktv.net'
+  # 图床
+  - '+.o--o.xyz'
