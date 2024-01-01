@@ -12,4 +12,9 @@ payload:
   - '+.sifangktv.net'
   # 图床
   #  - '+.o--o.xyz'
+  # netflav
   - '+.enaak-cdn.com'
+  - '+.subtitlecloud.one'
+  - '+.sw-cdnstream.com'
+  - '+.video-delivery.net'
+  - '+.shinauon.com'
