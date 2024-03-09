@@ -76,6 +76,8 @@ payload:
   - '+.fosshub.com'
   # woa.com
   - '+.woa.com'
+  # helm
+  - '+.helm.sh'
 #  - '+.'
 #  - '+.'
 #  - '+.'
