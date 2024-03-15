@@ -78,6 +78,8 @@ payload:
   - '+.woa.com'
   # helm
   - '+.helm.sh'
+  # nextcloud
+  - '+.nextcloud.com'
 #  - '+.'
 #  - '+.'
 #  - '+.'
