@@ -80,6 +80,8 @@ payload:
   - '+.helm.sh'
   # nextcloud
   - '+.nextcloud.com'
+  # hysteria
+  - '+.hysteria.network'
 #  - '+.'
 #  - '+.'
 #  - '+.'
