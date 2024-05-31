@@ -16,7 +16,8 @@ payload:
   - 'img.picgo.net'
   - 'pics.dmm.co.jp'
   - 'pic.imgdb.cn'
-  - 's12.gifyu.com'
+  - '+.gifyu.com'
+  - 'iili.io'
   # netflav
   - '+.enaak-cdn.com'
   - '+.subtitlecloud.one'
