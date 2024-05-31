@@ -11,7 +11,7 @@ payload:
   # sifangktv
   - '+.sifangktv.net'
   # 图床
-  #  - '+.o--o.xyz'
+  - '+.o--o.xyz'
   - '+.imgtp.com'
   - 'img.picgo.net'
   - 'pics.dmm.co.jp'
