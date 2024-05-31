@@ -12,6 +12,11 @@ payload:
   - '+.sifangktv.net'
   # 图床
   #  - '+.o--o.xyz'
+  - '+.imgtp.com'
+  - 'img.picgo.net'
+  - 'pics.dmm.co.jp'
+  - 'pic.imgdb.cn'
+  - 's12.gifyu.com'
   # netflav
   - '+.enaak-cdn.com'
   - '+.subtitlecloud.one'
