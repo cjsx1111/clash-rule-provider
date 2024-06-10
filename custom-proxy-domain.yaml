@@ -82,6 +82,7 @@ payload:
   - '+.nextcloud.com'
   # hysteria
   - '+.hysteria.network'
+  - '+.k3s.io'
 #  - '+.'
 #  - '+.'
 #  - '+.'
