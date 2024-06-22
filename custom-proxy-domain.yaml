@@ -83,6 +83,9 @@ payload:
   # hysteria
   - '+.hysteria.network'
   - '+.k3s.io'
+  - '+.ddys.pro'
+  -
+  -
 #  - '+.'
 #  - '+.'
 #  - '+.'
